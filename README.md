@@ -13,7 +13,7 @@ Couldnt show the full scan cuz it was too long to capture it in one screen hence
 Installation process similar for both windows and linux just type the following commands :
 ```
 git clone https://github.com/Chr0m0s0m3s/DeadTrap.git
-cd DeadTrap
+cd DeadTrapv2
 pip3 install -r requirements.txt
 ```
 
